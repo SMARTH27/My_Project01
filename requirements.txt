@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scikit-learn==1.3.2
+altair
+matplotlib
+seaborn
+plotly
+joblib
+reportlab
+dnspython
+pymongo
+pytz
